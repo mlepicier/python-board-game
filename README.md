@@ -2,7 +2,7 @@
 
 ## Abstract:
 
-<p align="justify">This project consists of coding a <b>Board Game</b> in <b>Python</b> named <i><b>Shogun</b></i>, a Japanese variation involving randomness of the world-famous checkers. The code has a very simple structure consisting of smaller functions calling each other along the gameplay. The visual interface part relies on the Python distributed packages <b>Tkinter</b>. This project was conducted from February 2016 to June 2016 as a <b>High School</b> student in France.</p>
+<p align="justify">This project consists of coding a <b>Board Game</b> named <i><b>Shogun</b></i> in <b>Python</b>, a Japanese variation of the world-famous checkers involving randomness. The code has a simple structure consisting of small functions calling each other along the game. The visual interface relies on the Python distributed packages <b>Tkinter</b>. This project was conducted from February 2016 to June 2016 as a <b>High School</b> student in France.</p>
 
 ## Repository Assets:
 
@@ -11,7 +11,7 @@
 
 ## Disclaimer:
 
-<p align="justify"> This project has been conducted during high school as my very first coding experience. Far from being professional and well conducted, this repository does not intend to showcase any coding skills and programming best-practice knowledge. However, this project being my first Python project, may be at the origin of my starting interest in coding-related works, and also very fun to implement, I am always happy to share about it.</p>
+<p align="justify"> This project has been conducted during high school as my very first coding experience. Far from being professional and well conducted, this repository does not intend to showcase any coding skills and programming best-practice knowledge. However, this project being my first Python project, possibly at the origin of my starting interest in coding-related works, and also very fun to implement, I am always happy to share about it.</p>
 
 ## Requirements:
 
