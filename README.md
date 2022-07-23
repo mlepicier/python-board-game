@@ -15,7 +15,7 @@
 
 ## Requirements:
 
-All the requirements for this project can be find in the file [Requirements](requirements.txt).
+All the requirements for this project can be found in the file [Requirements](requirements.txt).
 ```
 pip3 install requirements.txt
 ```
