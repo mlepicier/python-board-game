@@ -1,5 +1,7 @@
 #  Python Shogun Board Game 
 
+![readme-banner](https://user-images.githubusercontent.com/108199052/206317853-56fe1610-de36-4cf0-baae-bed80487a8b1.jpg)
+
 ## Abstract:
 
 <p align="justify">This project consists of coding a <b>Board Game</b> named <i><b>Shogun</b></i> in <b>Python</b>, a Japanese variation of the world-famous checkers involving randomness. The code has a simple structure consisting of small functions calling each other along the game. The visual interface relies on the Python distributed packages <b>Tkinter</b>. This project was conducted from February 2016 to June 2016 as a <b>High School</b> student in France.</p>
